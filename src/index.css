@@ -1,0 +1,12 @@
+/* A minimal reset so browser default margins/fonts don't fight our layout */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #222;
+}
