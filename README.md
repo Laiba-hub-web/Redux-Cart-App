@@ -2,7 +2,7 @@
 
 A shopping cart app built with React, Redux Toolkit, and Axios — live product data, a full cart (add/remove/quantity), localStorage persistence, and a complete checkout flow.
 
-**Repo:** https://github.com/Laiba-hub-web/redux-cart-app
+**Repo:** https://github.com/Laiba-hub-web/Redux-Cart-App
 
 ## Features
 
